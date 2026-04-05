@@ -1,6 +1,6 @@
 ## Citation
 
-If you use these datasets or find our work helpful for your research, please cite the following paper:
+If you use these datasets or find our work helpful for your research, please cite our ISPA 2022 paper:
 
 **H. Ye and H. Luo, "Indoor Intelligent IoT Datasets for Behavioral Learning and Autonomous Decision Making," 2022 IEEE ISPA/BDCloud/SocialCom/SustainCom, 2022, pp. 862-869.**
 
